@@ -8,7 +8,7 @@ export default function Slide3(props) {
 				background: props.color
 			}}>
   		<div>
-  			<p>I wanted to tell you that I love and miss you a lot! I hope Amsterdam was amazing and you had a great month leading up to Mother's Day. I wish I could be there with you today!</p>
+  			<p>I hope you're having an amazing day with all the family and food you can ask for! I'm sorry I couldn't be there today, but you are always in my thoughts. We'll make of for lost time in the Hamptons next week!</p>
   			<p
   				style={{
   					marginTop: '0px',

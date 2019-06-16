@@ -12,10 +12,10 @@ export default class App extends Component {
     }
     this.pw = null;
     this.colors = [
-      'linear-gradient(to bottom, #FC4958, #FC2A29)',
-      'linear-gradient(to bottom, #ed213a, #FC0967)',
-      'linear-gradient(to top, #eb3349, #f45c43)', 
-      'linear-gradient(to top, #d31027, #ea384d)',
+      'linear-gradient(to top, #4e54c8, #8f94fb)',
+      'linear-gradient(to bottom, #59c173, #a17fe0, #5d26c1)',
+      'linear-gradient(to bottom, #00c6ff, #0072ff)', 
+      'linear-gradient(to top, #396afc, #2948ff)',
     ];
   }
 
@@ -58,7 +58,7 @@ export default class App extends Component {
             index={0} />
           <Slide1 
             text1='Happy'
-            text2="Mother's Day!"
+            text2="Fathers's Day!"
             color={this.colors[0]}
             activeIndex={activeIndex}
             index={1}

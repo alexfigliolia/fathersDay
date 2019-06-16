@@ -368,7 +368,7 @@ body {
   align-items: center;
   background: #263143;
   width: 100%;
-  font-family: 'Patua One', sans-serif;
+  font-family: 'Righteous', sans-serif;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -591,7 +591,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Patua One', sans-serif; }
+  font-family: 'Righteous', sans-serif; }
   .slide3 > div {
     display: flex;
     justify-content: center;
@@ -624,7 +624,7 @@ body {
       height: 45px;
       width: 45px;
       border-radius: 50%;
-      background: #A2A8F8;
+      background: #F5004D;
       transform: scale(0);
       display: flex;
       justify-content: center;
@@ -636,7 +636,7 @@ body {
         width: 15px;
         border-radius: 50%;
         transform: scale(0);
-        background: #A2A8F8;
+        background: #F5004D;
         transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275); }
       .slide3 > div > .shape:nth-of-type(2) {
         top: calc(45% - 25px);
@@ -656,9 +656,9 @@ body {
         left: auto;
         bottom: 10%;
         right: calc(25% - 25px);
-        background: #4C4CF8; }
+        background: #38FCE9; }
         .slide3 > div > .shape:nth-of-type(4) > div {
-          background: #4C4CF8; }
+          background: #38FCE9; }
       .slide3 > div > .shape:nth-of-type(5) {
         left: auto;
         top: calc(45% - 25px);

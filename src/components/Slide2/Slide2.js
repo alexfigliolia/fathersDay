@@ -40,7 +40,7 @@ export default class Slide2 extends Component {
 				<div>
 					<h1>
 						{
-							'Hey Mom!'.split('').map((letter, i) => {
+							'Hey Dad!'.split('').map((letter, i) => {
 								if(letter === ' ') {
 									return (
 										<div key={i}><h1>&nbsp;</h1></div>
@@ -56,7 +56,7 @@ export default class Slide2 extends Component {
 												className='fetti'
 												style={{
 													transition: `transform 0.3s ${(i/10)}s, opacity 0.2s ${0.2 + (i/10)}s`,
-													background: '#A2A8F8'
+													background: '#F5004D'
 												}}></div>
 											<div 
 												className='fetti'

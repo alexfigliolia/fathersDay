@@ -28,7 +28,7 @@ export default function Slide1(props) {
 												className='burst'
 												style={{
 													transition: `transform 0.3s ${(inc/10)}s, opacity 0.2s ${0.2 + (inc/10)}s`,
-													background: '#A2A8F8'
+													background: '#F5004D'
 												}}></div>
 											<div 
 												className='burst'
@@ -73,7 +73,7 @@ export default function Slide1(props) {
 												className='burst'
 												style={{
 													transition: `transform 0.3s ${(inc/10)}s, opacity 0.2s ${0.2 + (inc/10)}s`,
-													background: '#A2A8F8'
+													background: '#F5004D'
 												}}></div>
 											<div 
 												className='burst'
