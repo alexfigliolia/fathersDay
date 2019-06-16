@@ -8,7 +8,7 @@ export default function Slide3(props) {
 				background: props.color
 			}}>
   		<div>
-  			<p>I hope you're having an amazing day with all the family and food you can ask for! I'm sorry I couldn't be there today, but you are always in my thoughts. We'll make of for lost time in the Hamptons next week!</p>
+  			<p>I hope you're having an amazing day with all the family and food you can ask for! I'm sorry I couldn't be there today, but you are always in my thoughts. We'll make up for lost time in the Hamptons next week!</p>
   			<p
   				style={{
   					marginTop: '0px',
